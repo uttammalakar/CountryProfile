@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CountryProfile</string>
+    <string name="bangladesh">bangladesh</string>
+    <string name="india">india</string>
+    <string name="bdtxt">bangladesh is my motherland</string>
+    <string name="indiatx">india help us</string>
+</resources>
